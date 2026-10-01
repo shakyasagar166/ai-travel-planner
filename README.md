@@ -165,8 +165,8 @@ ai-travel-planner-agent/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/shakyasagar166/ShopAgent-AI.git
-cd ShopAgent-AI
+git clone https://github.com/shakyasagar166/ai-travel-planner.git
+cd ai-travel-planner
 ```
 
 ---
