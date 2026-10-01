@@ -1,0 +1,693 @@
+[
+  {
+    "id": 1,
+    "name": "Goa",
+    "country": "India",
+    "city": "Goa",
+    "continent": "Asia",
+    "climate": "Tropical Coastal",
+    "best_season": "November to February",
+    "currency": "INR",
+    "avg_daily_budget_inr": 3500.0,
+    "description": "India's premier beach state, famous for sun-kissed coastlines, Portuguese colonial architecture, vibrant nightlife, water sports, and spicy seafood curries.",
+    "image_url": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?w=800",
+    "tags": ["beach", "nightlife", "water sports", "heritage", "relaxation", "budget-friendly"],
+    "attractions": [
+      {
+        "name": "Baga Beach & Water Sports",
+        "category": "Beach & Adventure",
+        "description": "Energetic beach offering parasailing, jet skiing, banana boat rides, and famous beach shacks like Britto's.",
+        "duration_hours": 3.5,
+        "entry_fee_inr": 0,
+        "rating": 4.5,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      },
+      {
+        "name": "Fort Aguada & Lighthouse",
+        "category": "Heritage & Scenic",
+        "description": "17th-century Portuguese fortress overlooking the vast Arabian Sea with a four-storey historic lighthouse.",
+        "duration_hours": 2.0,
+        "entry_fee_inr": 50,
+        "rating": 4.6,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?w=800"
+      },
+      {
+        "name": "Dudhsagar Waterfalls Trek",
+        "category": "Nature & Adventure",
+        "description": "A magnificent four-tiered waterfall cascading through lush Western Ghats forest, accessible via jeep safari.",
+        "duration_hours": 5.0,
+        "entry_fee_inr": 500,
+        "rating": 4.8,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      },
+      {
+        "name": "Basilica of Bom Jesus",
+        "category": "Cultural & Heritage",
+        "description": "UNESCO World Heritage Roman Catholic basilica in Old Goa housing the sacred relics of St. Francis Xavier.",
+        "duration_hours": 1.5,
+        "entry_fee_inr": 0,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=800"
+      },
+      {
+        "name": "Anjuna Flea Market & Curlies Sunset",
+        "category": "Shopping & Nightlife",
+        "description": "Bohemian flea market with handmade trinkets, live music shacks, and iconic sunset chill-out spots.",
+        "duration_hours": 3.0,
+        "entry_fee_inr": 0,
+        "rating": 4.4,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Zostel Goa (Anjuna)",
+        "tier": "Budget",
+        "price_per_night_inr": 1200,
+        "rating": 4.6,
+        "address": "Anjuna Beach Road, Goa",
+        "amenities": ["Free WiFi", "Swimming Pool", "Common Lounge", "AC Dorms", "Bicycle Rental"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Santana Beach Resort",
+        "tier": "Moderate",
+        "price_per_night_inr": 4200,
+        "rating": 4.4,
+        "address": "Candolim, North Goa",
+        "amenities": ["Beach Access", "Poolside Restaurant", "Breakfast Included", "Bar", "Spa"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "Taj Exotica Resort & Spa",
+        "tier": "Luxury",
+        "price_per_night_inr": 18500,
+        "rating": 4.9,
+        "address": "Benaulim, South Goa",
+        "amenities": ["Private Beach", "Luxury Spa", "Golf Course", "Fine Dining", "Infinity Pool"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Rent a scooter (₹350-₹500/day) for maximum mobility and scenic coastal road drives.",
+      "North Goa is best for nightlife and water sports, while South Goa is ideal for serene, uncrowded beaches.",
+      "Must try: Goan fish curry thali, Bebinca dessert, and fresh cashew feni.",
+      "Beware of overpriced beach taxi unions; pre-negotiate or use GoaMiles cab app."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Manali",
+    "country": "India",
+    "city": "Manali",
+    "continent": "Asia",
+    "climate": "Alpine Mountain",
+    "best_season": "October to June (Snow in Dec-Feb)",
+    "currency": "INR",
+    "avg_daily_budget_inr": 3000.0,
+    "description": "High-altitude Himalayan resort town nestled in Himachal Pradesh, famous for snow-capped peaks, pine forests, Solang Valley adventure sports, and cafe culture.",
+    "image_url": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800",
+    "tags": ["mountains", "snow", "trekking", "adventure", "honeymoon", "nature"],
+    "attractions": [
+      {
+        "name": "Solang Valley Adventure Arena",
+        "category": "Adventure & Sports",
+        "description": "Hub for paragliding, zorbing, ATV quad biking, and skiing during winter snow months.",
+        "duration_hours": 4.0,
+        "entry_fee_inr": 1500,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=800"
+      },
+      {
+        "name": "Atal Tunnel & Sissu Waterfall",
+        "category": "Scenic & Nature",
+        "description": "World's longest highway tunnel above 10,000 feet leading into the dramatic Lahaul Valley and Sissu waterfall.",
+        "duration_hours": 4.5,
+        "entry_fee_inr": 0,
+        "rating": 4.9,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800"
+      },
+      {
+        "name": "Hadimba Devi Ancient Temple",
+        "category": "Heritage & Culture",
+        "description": "16th-century wooden pagoda temple surrounded by cedar forest (Dhungri Van Vihar).",
+        "duration_hours": 1.5,
+        "entry_fee_inr": 0,
+        "rating": 4.6,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      },
+      {
+        "name": "Old Manali Cafes & Beas River Walk",
+        "category": "Food & Leisure",
+        "description": "Artisan cafes offering wood-fired trout pizza, Israeli shakshuka, live acoustic music, and riverbank trails.",
+        "duration_hours": 3.0,
+        "entry_fee_inr": 0,
+        "rating": 4.6,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "The Hosteller Old Manali",
+        "tier": "Budget",
+        "price_per_night_inr": 900,
+        "rating": 4.5,
+        "address": "Manu Temple Road, Old Manali",
+        "amenities": ["Mountain Views", "High-speed WiFi", "Cafe", "Bonfire Nights"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Apple Country Resort & Spa",
+        "tier": "Moderate",
+        "price_per_night_inr": 3800,
+        "rating": 4.4,
+        "address": "Log Huts Area, Manali",
+        "amenities": ["Heated Rooms", "Himalayan Panorama", "Buffet Breakfast", "Spa"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "The Himalayan Castle Resort",
+        "tier": "Luxury",
+        "price_per_night_inr": 14500,
+        "rating": 4.8,
+        "address": "Hadimba Road, Manali",
+        "amenities": ["Victorian Fireplaces", "Private Orchard", "Fine Dining", "Heated Pool"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Carry heavy woolens, thermal inners, and waterproof boots during Dec-March.",
+      "Pre-book Rohtang Pass permits online 3-5 days in advance as vehicle entries are restricted.",
+      "Try local Siddu (steamed stuffed wheat bread) and fresh rainbow trout."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jaipur",
+    "country": "India",
+    "city": "Jaipur",
+    "continent": "Asia",
+    "climate": "Semi-Arid Warm",
+    "best_season": "October to March",
+    "currency": "INR",
+    "avg_daily_budget_inr": 2800.0,
+    "description": "The Pink City of Rajasthan, steeped in regal Rajput history with hilltop forts, opulent royal palaces, vibrant bazaars, and traditional Rajasthani cuisine.",
+    "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800",
+    "tags": ["heritage", "palaces", "culture", "shopping", "foodie", "photography"],
+    "attractions": [
+      {
+        "name": "Amber Fort & Palace",
+        "category": "Heritage & Architecture",
+        "description": "Majestic yellow sandstone hilltop fortress featuring Sheesh Mahal (Mirror Palace) and panoramic Maota Lake vistas.",
+        "duration_hours": 3.5,
+        "entry_fee_inr": 200,
+        "rating": 4.8,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=800"
+      },
+      {
+        "name": "Hawa Mahal (Palace of Winds)",
+        "category": "Heritage & Architecture",
+        "description": "Five-storey pink sandstone facade with 953 honeycomb jharokha windows built for royal women.",
+        "duration_hours": 1.5,
+        "entry_fee_inr": 50,
+        "rating": 4.6,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1603262110263-fb010d6e75dc?w=800"
+      },
+      {
+        "name": "Nahargarh Fort Sunset Viewpoint",
+        "category": "Scenic & Heritage",
+        "description": "Hilltop fort offering spectacular sunset views over the entire illuminated Pink City skyline.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 100,
+        "rating": 4.7,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1585123388867-3bfe6dd4bdbf?w=800"
+      },
+      {
+        "name": "Johari Bazaar & Bapu Bazaar",
+        "category": "Shopping & Culture",
+        "description": "Vibrant lanes for silver jewellery, block-print textiles, blue pottery, and handcrafted Mojari footwear.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 0,
+        "rating": 4.5,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Moustache Hostel Jaipur",
+        "tier": "Budget",
+        "price_per_night_inr": 850,
+        "rating": 4.6,
+        "address": "MI Road, Jaipur",
+        "amenities": ["Rooftop Cafe", "Free WiFi", "Heritage Decor", "Walking Tours"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Shahpura House Heritage Hotel",
+        "tier": "Moderate",
+        "price_per_night_inr": 4500,
+        "rating": 4.6,
+        "address": "Bani Park, Jaipur",
+        "amenities": ["Fresco Murals", "Swimming Pool", "Royal Dining", "Courtyard"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "The Rambagh Palace",
+        "tier": "Luxury",
+        "price_per_night_inr": 28000,
+        "rating": 4.9,
+        "address": "Bhawani Singh Road, Jaipur",
+        "amenities": ["Former Maharaja Palace", "Royal Butler Service", "Peacock Gardens", "Luxury Spa"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Buy the composite monument ticket (₹300 for Indians / ₹1000 for foreigners) covering 8 major sights.",
+      "Feast on authentic Dal Baati Churma at Rawat Mishthan Bhandar or Chokhi Dhani.",
+      "Beware of unverified gemstone dealers; bargain politely in bazaars."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Kerala (Munnar & Alleppey)",
+    "country": "India",
+    "city": "Kochi",
+    "continent": "Asia",
+    "climate": "Tropical Lush",
+    "best_season": "September to March",
+    "currency": "INR",
+    "avg_daily_budget_inr": 3800.0,
+    "description": "God's Own Country, famed for emerald tea plantations in misty Munnar hills, serene backwater houseboat cruises in Alleppey, and Ayurvedic rejuvenation.",
+    "image_url": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800",
+    "tags": ["nature", "backwaters", "tea gardens", "relaxation", "honeymoon", "ayurveda"],
+    "attractions": [
+      {
+        "name": "Alleppey Backwaters Houseboat Cruise",
+        "category": "Nature & Leisure",
+        "description": "Glide through tranquil palm-fringed canals, paddy fields, and lagoons aboard a traditional Kettuvallam.",
+        "duration_hours": 5.0,
+        "entry_fee_inr": 3500,
+        "rating": 4.9,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=800"
+      },
+      {
+        "name": "Munnar Tea Gardens & Eravikulam National Park",
+        "category": "Wildlife & Scenic",
+        "description": "Rolling hills blanketed in lush green tea bushes and home to the endangered Nilgiri Tahr mountain goat.",
+        "duration_hours": 4.0,
+        "entry_fee_inr": 200,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800"
+      },
+      {
+        "name": "Fort Kochi Chinese Fishing Nets & Heritage",
+        "category": "Heritage & Culture",
+        "description": "Iconic cantilevered Chinese fishing nets along the coastline with colonial Portuguese streets and spice markets.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 0,
+        "rating": 4.5,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Alleppey Beach Hostel",
+        "tier": "Budget",
+        "price_per_night_inr": 950,
+        "rating": 4.4,
+        "address": "Beach Road, Alleppey",
+        "amenities": ["Beach Front", "Canoe Tours", "Free Breakfast", "WiFi"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Fragrant Nature Munnar",
+        "tier": "Moderate",
+        "price_per_night_inr": 5200,
+        "rating": 4.7,
+        "address": "Pothamedu, Munnar",
+        "amenities": ["Fireplace Suites", "Valley Panorama", "Ayurvedic Spa", "Tea Tasting"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "Kumarakom Lake Resort",
+        "tier": "Luxury",
+        "price_per_night_inr": 22000,
+        "rating": 4.9,
+        "address": "Kumarakom, Kottayam",
+        "amenities": ["Meandering Pool Villas", "Heritage Cottages", "Private Backwater Pier", "Luxury Ayurveda"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Book government DTPC shikara boats in Alleppey if on a budget (₹800/hr) instead of a full houseboat.",
+      "Experience authentic Kerala Sadya served on a banana leaf and Karimeen Pollichathu (pearl spot fish).",
+      "Carry insect repellent and umbrellas even during shoulder seasons."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tokyo",
+    "country": "Japan",
+    "city": "Tokyo",
+    "continent": "Asia",
+    "climate": "Temperate Maritime",
+    "best_season": "March to May (Sakura) & Sept to Nov",
+    "currency": "JPY",
+    "avg_daily_budget_inr": 8500.0,
+    "description": "Ultra-futuristic metropolis seamlessly blending neon skyscrapers, anime pop culture, tranquil Shinto shrines, Michelin-star dining, and world-class rapid transit.",
+    "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800",
+    "tags": ["modern", "anime", "foodie", "culture", "technology", "shopping"],
+    "attractions": [
+      {
+        "name": "Shibuya Scramble Crossing & Sky View",
+        "category": "Modern & Landmark",
+        "description": "The world's busiest pedestrian intersection with rooftop 360-degree glass viewing deck at Shibuya Sky.",
+        "duration_hours": 2.0,
+        "entry_fee_inr": 1200,
+        "rating": 4.8,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800"
+      },
+      {
+        "name": "Senso-ji Ancient Temple (Asakusa)",
+        "category": "Heritage & Culture",
+        "description": "Tokyo's oldest Buddhist temple founded in 645 AD, approached through the vibrant Nakamise shopping street.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 0,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800"
+      },
+      {
+        "name": "Akihabara Electric Town & Anime Hub",
+        "category": "Pop Culture & Tech",
+        "description": "Epicenter of otaku anime culture, multi-level retro gaming arcades, and electronics superstores.",
+        "duration_hours": 3.5,
+        "entry_fee_inr": 0,
+        "rating": 4.6,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800"
+      },
+      {
+        "name": "teamLab Planets Immersive Digital Art",
+        "category": "Art & Experience",
+        "description": "Groundbreaking interactive body-immersive museum where you walk through water and crystal light installations.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 2200,
+        "rating": 4.9,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Nine Hours Capsule Hotel Shinjuku",
+        "tier": "Budget",
+        "price_per_night_inr": 2800,
+        "rating": 4.4,
+        "address": "Shinjuku-ku, Tokyo",
+        "amenities": ["Sleek Sleep Pod", "High-speed WiFi", "Lockers", "Shower Amenities"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Hotel Gracery Shinjuku (Godzilla Hotel)",
+        "tier": "Moderate",
+        "price_per_night_inr": 8900,
+        "rating": 4.6,
+        "address": "Kabukicho, Shinjuku, Tokyo",
+        "amenities": ["Godzilla Head Terrace", "Metro Proximity", "Buffet Breakfast", "City View"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "Park Hyatt Tokyo",
+        "tier": "Luxury",
+        "price_per_night_inr": 42000,
+        "rating": 4.9,
+        "address": "Nishi-Shinjuku, Tokyo",
+        "amenities": ["Lost In Translation Bar", "Mount Fuji Views", "Sky Pool & Spa", "Club Lounge"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Purchase a Suica/Pasmo IC card or 72-hour Tokyo Subway ticket for seamless metro transit.",
+      "Tipping is strictly not customary in Japan; exceptional service is already standard.",
+      "Must try: Tonkotsu Ramen at Ichiran, fresh sushi at Tsukiji outer market, and 7-Eleven egg salad sandwiches."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Paris",
+    "country": "France",
+    "city": "Paris",
+    "continent": "Europe",
+    "climate": "Temperate Continental",
+    "best_season": "April to June & Sept to Nov",
+    "currency": "EUR",
+    "avg_daily_budget_inr": 9200.0,
+    "description": "The City of Light, renowned worldwide for timeless art, haute couture, romantic boulevard cafes, gourmet patisseries, and iconic monuments like the Eiffel Tower.",
+    "image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+    "tags": ["romance", "art", "architecture", "foodie", "luxury", "history"],
+    "attractions": [
+      {
+        "name": "Eiffel Tower & Champ de Mars",
+        "category": "Landmark & Romance",
+        "description": "Wrought-iron lattice tower standing 330m high with sparkling light shows every hour after dusk.",
+        "duration_hours": 3.0,
+        "entry_fee_inr": 2400,
+        "rating": 4.8,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800"
+      },
+      {
+        "name": "Louvre Museum & Mona Lisa",
+        "category": "Art & History",
+        "description": "World's largest art museum housed in former royal palace, showcasing Mona Lisa and Venus de Milo.",
+        "duration_hours": 4.0,
+        "entry_fee_inr": 1900,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800"
+      },
+      {
+        "name": "Montmartre & Sacré-Cœur Basilica",
+        "category": "Scenic & Bohemian",
+        "description": "Historic bohemian hilltop district once frequented by Picasso, with breathtaking panorama of Paris.",
+        "duration_hours": 3.0,
+        "entry_fee_inr": 0,
+        "rating": 4.6,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1509439581779-6298f75bf6e5?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Generator Hostel Paris",
+        "tier": "Budget",
+        "price_per_night_inr": 3200,
+        "rating": 4.3,
+        "address": "Canal St Martin, Paris",
+        "amenities": ["Rooftop Bar", "Metro Access", "Social Events", "Cafe"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Hôtel Le Relais Saint-Germain",
+        "tier": "Moderate",
+        "price_per_night_inr": 11500,
+        "rating": 4.7,
+        "address": "Latin Quarter, Paris",
+        "amenities": ["Boutique Parisian Decor", "Gourmet Bistro", "Breakfast Included"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "The Ritz Paris",
+        "tier": "Luxury",
+        "price_per_night_inr": 85000,
+        "rating": 4.9,
+        "address": "Place Vendôme, Paris",
+        "amenities": ["Historic Luxury", "Chanel Spa", "Michelin Dining", "Private Gardens"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Book Louvre and Eiffel Tower tickets at least 3-4 weeks ahead to bypass multi-hour queues.",
+      "Watch out for pickpockets and petition sign scams around Sacré-Cœur and Eiffel Tower.",
+      "Greet shopkeepers with a polite 'Bonjour' before asking questions; it opens doors in Paris."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bali",
+    "country": "Indonesia",
+    "city": "Denpasar",
+    "continent": "Asia",
+    "climate": "Tropical Monsoon",
+    "best_season": "April to October (Dry Season)",
+    "currency": "IDR",
+    "avg_daily_budget_inr": 3600.0,
+    "description": "Island of the Gods, celebrated for jungle wellness retreats in Ubud, emerald rice terraces, cliffside sea temples in Uluwatu, surf beaches, and sunset beach clubs.",
+    "image_url": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800",
+    "tags": ["beach", "tropical", "spiritual", "yoga", "surfing", "nature"],
+    "attractions": [
+      {
+        "name": "Tegallalang Rice Terraces & Jungle Swing",
+        "category": "Nature & Adventure",
+        "description": "Dramatic stepped green valley with traditional Balinese Subak irrigation and giant high-flying swings.",
+        "duration_hours": 3.0,
+        "entry_fee_inr": 800,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800"
+      },
+      {
+        "name": "Uluwatu Cliff Temple & Kecak Fire Dance",
+        "category": "Culture & Sunset",
+        "description": "Ancient sea temple perched on 70-meter limestone cliffs overlooking crashing waves, featuring sunset fire dance.",
+        "duration_hours": 3.5,
+        "entry_fee_inr": 900,
+        "rating": 4.8,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800"
+      },
+      {
+        "name": "Mount Batur Sunrise Trek",
+        "category": "Adventure & Trekking",
+        "description": "Early morning hike up an active volcano to watch the golden sunrise above the sea of clouds.",
+        "duration_hours": 5.0,
+        "entry_fee_inr": 2200,
+        "rating": 4.9,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Arya Monkey Forest Hostel Ubud",
+        "tier": "Budget",
+        "price_per_night_inr": 1100,
+        "rating": 4.6,
+        "address": "Ubud, Bali",
+        "amenities": ["Jungle Pool", "Daily Yoga", "Free Breakfast", "Co-working Space"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Komaneka at Monkey Forest",
+        "tier": "Moderate",
+        "price_per_night_inr": 6500,
+        "rating": 4.8,
+        "address": "Jalan Monkey Forest, Ubud",
+        "amenities": ["Private Infinity Pool", "Balinese Spa", "Afternoon Tea", "Garden Villas"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "AYANA Resort & Rock Bar",
+        "tier": "Luxury",
+        "price_per_night_inr": 26000,
+        "rating": 4.9,
+        "address": "Jimbaran, Bali",
+        "amenities": ["Private Beach", "14 Ocean Pools", "Rock Bar on Clifftop", "Thalassotherapy Spa"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Use Grab or Gojek apps for cheap bike rides and food delivery across Seminyak and Canggu.",
+      "Wear a sarong (provided at entry) when visiting Balinese Hindu temples.",
+      "Indulge in Nasi Goreng, Babi Guling, and fresh young coconuts."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "continent": "Asia",
+    "climate": "Desert Warm",
+    "best_season": "November to March",
+    "currency": "AED",
+    "avg_daily_budget_inr": 7800.0,
+    "description": "Glittering Arabian metropolis famous for record-breaking skyscrapers like Burj Khalifa, luxury desert dune bashing, futuristic museums, and lavish mega-malls.",
+    "image_url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800",
+    "tags": ["luxury", "modern", "desert", "shopping", "family", "architecture"],
+    "attractions": [
+      {
+        "name": "Burj Khalifa At The Top (124th & 125th Floor)",
+        "category": "Landmark & Modern",
+        "description": "Ascend the tallest building on earth (828m) in 60-second high-speed double-decker elevators.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 3800,
+        "rating": 4.8,
+        "best_time_of_day": "Evening",
+        "image_url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800"
+      },
+      {
+        "name": "Red Dunes Desert Safari & BBQ Camp",
+        "category": "Adventure & Culture",
+        "description": "Thrilling 4x4 dune bashing across red sands, camel riding, sandboarding, and Tanoura fire show under stars.",
+        "duration_hours": 6.0,
+        "entry_fee_inr": 2900,
+        "rating": 4.9,
+        "best_time_of_day": "Afternoon",
+        "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800"
+      },
+      {
+        "name": "Museum of the Future",
+        "category": "Innovation & Architecture",
+        "description": "Torus-shaped architectural masterpiece clad in Arabic calligraphy exploring humanity in 2071.",
+        "duration_hours": 2.5,
+        "entry_fee_inr": 3400,
+        "rating": 4.7,
+        "best_time_of_day": "Morning",
+        "image_url": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?w=800"
+      }
+    ],
+    "accommodations": [
+      {
+        "name": "Rove Downtown Dubai",
+        "tier": "Budget",
+        "price_per_night_inr": 4800,
+        "rating": 4.5,
+        "address": "Downtown, Dubai",
+        "amenities": ["Burj Khalifa Views", "Outdoor Pool", "Metro Shuttle", "Contemporary Rooms"],
+        "image_url": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=800"
+      },
+      {
+        "name": "Address Beach Resort",
+        "tier": "Moderate",
+        "price_per_night_inr": 14500,
+        "rating": 4.8,
+        "address": "JBR, Dubai Marina",
+        "amenities": ["World's Highest Infinity Pool (77th Floor)", "Direct Beach Access", "Luxury Dining"],
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800"
+      },
+      {
+        "name": "Burj Al Arab Jumeirah",
+        "tier": "Luxury",
+        "price_per_night_inr": 95000,
+        "rating": 4.9,
+        "address": "Jumeirah Beach Road, Dubai",
+        "amenities": ["7-Star Icon", "24K Gold Suites", "Rolls-Royce Chauffeur", "Private Helipad"],
+        "image_url": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800"
+      }
+    ],
+    "travel_tips": [
+      "Use Dubai Metro Red line which connects DXB Airport, Burj Khalifa, Mall of the Emirates, and Marina.",
+      "Dress modestly in government buildings and old souks.",
+      "Visit Dubai Gold and Spice Souks in Deira and take a traditional 1 AED Abra boat across Dubai Creek."
+    ]
+  }
+]
